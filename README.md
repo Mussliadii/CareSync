@@ -2,6 +2,9 @@
 
 > **Track: Concierge Agents** | Kaggle 5-Day AI Agents: Intensive Vibe Coding Course with Google
 
+[![Demo Video](https://img.shields.io/badge/YouTube-Demo%20Video-red?logo=youtube)](https://youtu.be/JFzlHyiVQJA)
+[![GitHub](https://img.shields.io/badge/GitHub-CareSync-181717?logo=github)](https://github.com/Mussliadii/CareSync)
+
 **CareSync** is a multi-agent healthcare platform that helps patients with chronic conditions manage their daily care — from medication safety checks and prescription analysis to doctor handoffs and personalized nutrition — through intelligent, conversational AI.
 
 ---
